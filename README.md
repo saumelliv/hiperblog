@@ -1,4 +1,4 @@
-#Hiperblog
+# Hiperblog
 
 Un blog increible para el curso de git y gihub
 
@@ -12,3 +12,4 @@ Un blog increible para el curso de git y gihub
 * Trucos locos del profesor
 
 Como buen estudiante recomiendo ciegamente este curso ya que es el mejor a platzi que he visto y me ha enseñado mas de lo que deberia, dejo el link enseguida: [Curso de Git](https://platzi.com/clases/git-github/)
+.
